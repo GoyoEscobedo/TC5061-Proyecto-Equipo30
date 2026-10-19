@@ -202,9 +202,9 @@ Se adopta el estándar de [Conventional Commits](https://www.conventionalcommits
 | Integrante | Rol en el Proyecto | Responsabilidades Principales |
 |---|---|---|
 | **Ricardo Bahamón** | **MLOps & Pipeline Engineer** | Arquitectura del pipeline reproducible, orquestación de ingesta Parquet, configuración de MLflow, tracking de artefactos y control de versiones de datos. |
-| **Diego Botero** | **Lead Data Scientist & Modeling** | Formulación matemática del target de riesgo, ingeniería de variables de series de tiempo (lags/rollings), entrenamiento y calibración de modelos LightGBM. |
-| **Compañero Equipo 30** | **Data Engineer & Quality QA** | Scraping dinámico resiliente, saneamiento de catálogos geoespaciales, validación de integridad criptográfica (SHA-256) y pruebas unitarias. |
-| **Compañero Equipo 30** | **Product & Deployment Lead** | Elaboración del ML Canvas, especificación de requisitos operativos del CCO, diseño de diagnósticos visuales y documentación técnica. |
+| **Diego Becerril** | **Lead Data Scientist & Modeling** | Formulación matemática del target de riesgo, ingeniería de variables de series de tiempo (lags/rollings), entrenamiento y calibración de modelos LightGBM. |
+| **Gregorio Escobedo** | **Data Engineer & Quality QA** | Scraping dinámico resiliente, saneamiento de catálogos geoespaciales, validación de integridad criptográfica (SHA-256) y pruebas unitarias. |
+| **Freddin Alcantara** | **Product & Deployment Lead** | Elaboración del ML Canvas, especificación de requisitos operativos del CCO, diseño de diagnósticos visuales y documentación técnica. |
 
 ---
 
